@@ -1,0 +1,137 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. Tried resetting password but still can’t.",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/15/2024"
+  },
+  {
+    "id": "#1002",
+    "title": "Payment Failed - Card Declined",
+    "description": "Customer attempted to pay with Visa 1234 but payment keeps failing.",
+    "customer": "Sarah Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/16/2024"
+  },
+  {
+    "id": "#1003",
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download January invoice. Download button unresponsive.",
+    "customer": "Michael Brown",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/17/2024"
+  },
+  {
+    "id": "#1004",
+    "title": "Incorrect Billing Address",
+    "description": "Customer’s billing address shows a different city after update.",
+    "customer": "Emily Davis",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/18/2024"
+  },
+  {
+    "id": "#1005",
+    "title": "App Crash on Launch",
+    "description": "Mobile app crashes immediately on Android 13.",
+    "customer": "David Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/19/2024"
+  },
+  {
+    "id": "#1006",
+    "title": "Refund Not Processed",
+    "description": "Customer requested refund two weeks ago, still not received.",
+    "customer": "Sophia Taylor",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/20/2024"
+  },
+  {
+    "id": "#1007",
+    "title": "Two-Factor Authentication Issue",
+    "description": "Customer not receiving 2FA codes on registered phone number.",
+    "customer": "James Anderson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/21/2024"
+  },
+  {
+    "id": "#1008",
+    "title": "Unable to Update Profile Picture",
+    "description": "Customer gets 'Upload failed' error when updating profile picture.",
+    "customer": "Olivia Martinez",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/22/2024"
+  },
+  {
+    "id": "#1009",
+    "title": "Subscription Auto-Renewal",
+    "description": "Auto-renewal toggle disabled, customer wants to enable it.",
+    "customer": "Liam Thomas",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/23/2024"
+  },
+  {
+    "id": "#1010",
+    "title": "Missing Order Confirmation Email",
+    "description": "Customer did not receive confirmation email despite successful payment.",
+    "customer": "Isabella Garcia",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "1/24/2024"
+  },
+  {
+    "id": "#1011",
+    "title": "Slow Website Performance",
+    "description": "Customer reports website pages taking too long to load on desktop.",
+    "customer": "Ethan White",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "1/25/2024"
+  },
+  {
+    "id": "#1012",
+    "title": "Password Reset Email Not Received",
+    "description": "Customer requested a password reset but never received the email.",
+    "customer": "Ava Harris",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/26/2024"
+  },
+  {
+    "id": "#1013",
+    "title": "Live Chat Not Working",
+    "description": "Customer tried to contact support via live chat but it doesn’t connect.",
+    "customer": "Mason Clark",
+    "priority": "LOW PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/27/2024"
+  },
+  {
+    "id": "#1014",
+    "title": "Duplicate Transactions",
+    "description": "Customer was charged twice for the same order on their credit card.",
+    "customer": "Mia Lewis",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/28/2024"
+  },
+  {
+    "id": "#1015",
+    "title": "Notification Settings Not Saving",
+    "description": "Customer updates notification preferences but they revert after refresh.",
+    "customer": "Noah Walker",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/29/2024"
+  }
+]
